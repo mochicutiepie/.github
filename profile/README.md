@@ -22,9 +22,9 @@ We believe productivity tools should be delightful to use. Mochi combines the po
 
 ## Contact
 
-- GitHub: [@mochi-intelligence](https://github.com/mochi-intelligence)
+- GitHub: [@mochicutiepie](https://github.com/mochicutiepie)
 - Website: Coming soon!
 
 ---
 
-*Made with ❤️ by the Mochi Intelligence team*
+*Made with ❤️ by the Mochi Cute Computer Co team*
