@@ -1,4 +1,4 @@
-# Mochi Intelligence 🦦
+# Mochi Cute Computer Co 🦦
 
 Building **Mochi the Otter** - an AI-powered iMessage assistant that seamlessly integrates with your calendar to help you stay organized and productive.
 
